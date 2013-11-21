@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/usr/share/thruk/lib/Thruk/Utils'
+let g:netrw_dirhist_2='/opt/shinken/etc/templates'
+let g:netrw_dirhist_3='/opt/shinken/etc/templates/OS/windows-nrpe/services'
+let g:netrw_dirhist_4='/opt/shinken/etc/templates'
+let g:netrw_dirhist_5='/opt/shinken/etc/templates/OS/linux-nrpe/services'
+let g:netrw_dirhist_6='/usr/local/pnp4nagios/var/perfdata'
+let g:netrw_dirhist_7='/root/.vim'
