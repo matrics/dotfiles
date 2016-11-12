@@ -16,3 +16,4 @@ alias egrep='egrep --color=auto'
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
+export HISTTIMEFORMAT="%d/%m/%Y %T 
