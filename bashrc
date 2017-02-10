@@ -16,7 +16,10 @@ alias egrep='egrep --color=auto'
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
+
 export HISTTIMEFORMAT="%d/%m/%Y %T -> " 
 export HISTCONTROL=ignorespace
 export HISTCONTROL=ignoredups
 #export HISTCONTROL=ignoreboth
+
+set -o vi
